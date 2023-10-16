@@ -17,17 +17,17 @@ In this project, I utilized Tableau to create insightful visualizations of COVID
  
     - Understanding the corrleation between vaccine hesitancy and political influence
 
-      ![Train accuracy before applying SMOTE](./DoH_top_10.PNG)
+      ![Train accuracy before applying SMOTE](./images/DoH_top_10.PNG)
 
       <br><br> <!-- Adding line breaks for spacing -->
    
-      ![Train accuracy before applying SMOTE](./bottom.PNG)
+      ![Train accuracy before applying SMOTE](./images/bottom.PNG)
 
       <br><br> <!-- Adding line breaks for spacing -->
 
     - Vaccination status by different status as of December 2021
 
-      ![Train accuracy before applying SMOTE](./tableau1.PNG)
+      ![Train accuracy before applying SMOTE](./images/tableau1.PNG)
       
 
 - **Effect Exploration:**
